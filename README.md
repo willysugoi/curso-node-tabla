@@ -1,5 +1,5 @@
 # Notas:
-Este es mi primer progrma en Node
+Este es mi primer programa en Node
 ```
 Opciones:
       --help     Muestra ayuda                                        [booleano]
